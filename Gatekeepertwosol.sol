@@ -34,7 +34,7 @@ contract Gatekeeperhack {
     bytes32 constant mask2 = 0xffffffffffffffff000000000000000000000000000000000000000000000000;
     bytes8 public mask3 = 0xFFFFFFFFFFFFFFFF;
 
-    // replace following GatekeeperTow("address") with your Ethernaut Smartcontract instance to be hacked
+    // replace following GatekeeperTwo("address") with your Ethernaut Smartcontract instance to be hacked
     GatekeeperTwo target = GatekeeperTwo(0xc9cdd7872ebb6494adb60339848b8be54ccf62c0);
 
  
